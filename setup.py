@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 REPO_NAME = "MLflow-CNN-app"
 SRC_REPO = "src"
-AUTHOR_USER_NAME = "Asif Khan"
+AUTHOR_USER_NAME = "Asif-AI"
 LIST_OF_REQUIREMENTS = []
 
 
